@@ -3,7 +3,6 @@
 # 381NLP - HW #2
 
 ## Notes
-- After unzipping the original project, there were two 'movie-review-HW2' folders(one inside the other) so i deleted the first and moved the folder inside the first out into the project directory. 
 - Change the files paths to your respective file paths if necesarry.
 
 ## Instructions to Run Code (Step-by-step)
