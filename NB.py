@@ -3,7 +3,7 @@ import math
 import sys
 
 def main():
-    print('Please select one of the following (enter a number 1 thru 3, inclusive)')
+    print('Please select one of the following (enter a number 1 thru 3)')
     print('1. Small Movie Genre Classification')
     print('2. Movie Review Classification with Bag-Of-Words (BOW) Params')
     print('3. Movie Review Classification with Less Features (no stop words)')
